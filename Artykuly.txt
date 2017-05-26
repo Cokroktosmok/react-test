@@ -1,0 +1,12 @@
+https://github.com/viatsko/awesome-vscode
+
+https://flow.org/en/docs/frameworks/react/
+^ - Fajnie wyjasnione refki
+
+React musi byc zaimportowany by dzialal JSX
+
+JSX w klamrach przyjmuje WYRAZENIA a nie KOD
+
+Dwa rodzaje komponentów (functional|class).
+
+Storybook for React
