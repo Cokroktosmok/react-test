@@ -10,3 +10,5 @@ JSX w klamrach przyjmuje WYRAZENIA a nie KOD
 Dwa rodzaje komponentów (functional|class).
 
 Storybook for React
+
+Zmiany
