@@ -23,6 +23,7 @@ class App extends Component {
                         <HeaderLink target="/" name="Home"/>
                         <HeaderLink target="/videos" name="Videos"/>
                     </header>
+		    <div>Changes</div>
                     <Route exact path="/" component={HomePage} />
                     <Route exact path="/videos" component={VideosPage} />
                 </div>
